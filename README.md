@@ -1,4 +1,4 @@
-# MyProject
+# House Rental App
 
 A full-stack real estate listings app with user auth, listings management, and search. Backend runs on Express + MongoDB; frontend is a React (Vite) app with Tailwind and Redux.
 
